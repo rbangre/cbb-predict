@@ -1,1 +1,2 @@
-# cbb-predict
+# 2021 College Basketball Seed Predictor
+
